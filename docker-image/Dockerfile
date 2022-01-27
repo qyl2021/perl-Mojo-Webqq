@@ -1,4 +1,4 @@
-FROM centos:7.0.1406
+FROM centos:7
 MAINTAINER sjdy521 <sjdy521@163.com>
 WORKDIR /root
 USER root
