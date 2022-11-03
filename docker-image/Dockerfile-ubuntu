@@ -1,5 +1,5 @@
 # version: v2.2.6
-FROM ubuntu
+FROM ubuntu:kinetic-20220830
 MAINTAINER XZ-Dev <xiangzhedev@gmail.com>
 WORKDIR /root
 USER root
